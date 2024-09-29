@@ -49,10 +49,10 @@ export const secctionCopy = [
 
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWgI-Qu8PxBhwz0Tc9McWWIxlxrCJZGNQdw&s",
-        title: 'Liên Quân',
-        name: 'ɪᴄᴇ•ᴄᴀᴛᴀɴᴅғɪsʜ',
-        link: '#',
+        image: "/ctv.jpg",
+        title: 'Bánh Mì Chả Ram',
+        name: 'CTV Nguyễn Đăng Khôi',
+        link: 'https://www.facebook.com/Banhmicharam',
 
     },
     {
